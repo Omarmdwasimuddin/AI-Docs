@@ -2,6 +2,7 @@
 
 ### CLI-AI
 
+#### [Kilo Code CLI](https://github.com/Omarmdwasimuddin/Kilo-Code-CLI)
 #### [Kimi Code CLI](https://github.com/Omarmdwasimuddin/Kimi-Code-CLI)
 #### [Antigravity CLI (Agy)](https://github.com/Omarmdwasimuddin/Antigravity-CLI)
 #### [Codex CLI](https://github.com/Omarmdwasimuddin/Codex-AI-Setup)
