@@ -13,8 +13,8 @@
 
 ### IDE-AI
 
-#### []()
-#### []()
-#### []()
+#### [Cursor IDE]()
+#### [Antigrapity IDE]()
+#### [Windsurf IDE]()
 #### []()
 #### []()
